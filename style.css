@@ -12,3 +12,8 @@ ul{
 body{
     background-color: antiquewhite;
 }
+
+li{
+    background-color: antiquewhite;
+    color: black;
+}
