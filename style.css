@@ -17,3 +17,9 @@ li{
     background-color: antiquewhite;
     color: black;
 }
+
+body{
+    margin: 0 auto;
+    color: azure;
+    box-sizing: border-box;
+}
